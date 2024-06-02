@@ -34,9 +34,9 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Ansh", "Black", "M", "Zara");
-mintNFT("Arnav", "Red", "S", "Armani");
-mintNFT("Keshav", "Yellow", "L", "Tommy Hilfiger");
+mintNFT("Abhijai", "Black", "M", "Zara");
+mintNFT("Tanya", "Red", "S", "Armani");
+mintNFT("Arnav", "Yellow", "L", "Tommy Hilfiger");
 mintNFT("Kunsh", "Blue", "XL", "US Polo");
 listNFTs();
 getTotalSupply();
